@@ -1,0 +1,29 @@
+Fermat's Little Theorem
+
+If p is a prime number, (a^p) mod p = a
+
+We can also have a^(p-1) mod p = 1
+
+So if we want to compute
+	207^10000000000123 mod 19 = ...
+
+	207^(10000000000123 mod 18) mod 19
+	207^7 mod 19 = 5
+
+Inverse of a modulo p = a' = a^(p-2) mod p = 1/a (mod p)
+
+
+
+----
+
+Functions Involving Prime Numbers
+
+if N = p1^a1 * p2^a2 * ... * pk^ak:
+
+	Number of divisors of N d(N) = (a1 + 1) * (a2 + 1) * .. * (ak + 1)
+
+	Sum of divisors of N s(N) = (p1^(a1 + 1) - 1)/(p1 - 1) * (p2^(a2 + 1) - 1)/(p2 - 1) * .. * (pk^(ak + 1) - 1)/(pk - 1)
+
+	Number of naturals < N which are relatively prime with N (gcd(a, N) = 1):
+		Euler's Totient Function
+			EulerPhi(N) = N * (1 - 1 / p1) * (1 - 1 / p2) * .. * (1 - 1 / pk)
