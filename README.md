@@ -4,7 +4,7 @@
 
 Materials:
 
-* Week01: -
+* Week01: Basic Data Structure (Stack, Queue, and Heap)
 * Week02: Fenwick Tree (Binary Indexed Tree)
 * Week03: Segment Tree (excluding Lazy Propagation)
 * Week04: Math
