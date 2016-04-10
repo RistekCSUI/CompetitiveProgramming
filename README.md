@@ -8,6 +8,7 @@ Materials:
 * Week02: Fenwick Tree (Binary Indexed Tree)
 * Week03: Segment Tree (excluding Lazy Propagation)
 * Week04: Math
+* Week05: Basic Dynamic Programming
 
 Team:
 
