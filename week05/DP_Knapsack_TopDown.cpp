@@ -27,7 +27,8 @@ int calc(int i, int left)
 	// or if we use the i-th item
 	// we get +v[i]
 	// the remaining sack -w[i]
-	ret = max(ret, v[i] + calc(i + 1, left - w[i]));
+	if (left >= w[i])
+		ret = max(ret, v[i] + calc(i + 1, left - w[i]));
 	return ret;
 }
 
