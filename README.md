@@ -9,6 +9,10 @@ Materials:
 * Week03: Segment Tree (excluding Lazy Propagation)
 * Week04: Math
 * Week05: Basic Dynamic Programming
+* Week06: Greedy
+* Week07: Binary Search
+* Week08: Shortest Path & Minimum Spanning Tree
+* Week09: Advanced Dynamic Programming
 
 Team:
 
