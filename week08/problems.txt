@@ -1,0 +1,5 @@
+- UVa 10986 - Sending email
+- UVa 10048 - Audiophobia
+- UVa 274 - Cat and Mouse
+- UVa 1537 - Picnic Planning
+- UVa 10307 - Killing Aliens in Borg Maze

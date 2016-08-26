@@ -1,0 +1,5 @@
+- UVa 10635 - Prince and Princess
+- UVa 10937 - Blackbeard the Pirate
+- UVa 11584 - Partitioning by Palindromes
+- UVa 10891 - Game of Sum
+- UVa 19974 - Switch The Lights

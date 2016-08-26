@@ -1,0 +1,5 @@
+- UVa 993 - Product of digits
+- UVa 294 - Divisors
+- UVa 884 - Factorial Factors
+- UVa 10179 - Irreducable Basic Fractions
+- UVa 10820 - Send a Table

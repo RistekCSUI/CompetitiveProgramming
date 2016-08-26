@@ -1,0 +1,5 @@
+- CodeForces 597B - Restaurant
+- CodeForces 660A - Co-prime Array
+- CodeForces 659C - Tanya and Toys
+- CodeForces 374B - Inna and Nine
+- CodeForces 140C - New Year Snowmen

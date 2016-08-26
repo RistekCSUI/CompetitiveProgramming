@@ -1,0 +1,4 @@
+- SPOJ BRCKTS - Brackets
+- CodeForces 295A - Greg and Array
+- SPOJ KGSS - Maximum Sum
+- SPOJ AKVQLD03 - How to Handle the Fans

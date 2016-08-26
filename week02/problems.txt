@@ -1,0 +1,5 @@
+- SPOJ UPDATEIT - Update the array!
+- SPOJ RANGESUM - Range Sum
+- CodeChef SPREAD - Gravel
+- UVa 12532 - Interval Product
+- CodeForces 635D - Factory Repairs

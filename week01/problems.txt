@@ -1,0 +1,5 @@
+- UVa 12100 - Printer Queue
+- UVa 1062 - Containers
+- UVa 514 - Rails
+- UVa 1197 - The Suspects
+- UVa 10954 - Add All

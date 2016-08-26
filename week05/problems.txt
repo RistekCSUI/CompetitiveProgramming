@@ -1,0 +1,5 @@
+- SPOJ MIXTURES - Mixtures
+- UVa 116 - Unidirectional TSP
+- UVa 10616 - Divisible Group Sums
+- UVa 147 - Dollars
+- SPOJ FARIDA - Princess Farida
