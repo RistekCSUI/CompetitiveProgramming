@@ -12,6 +12,7 @@ int KMP(string s1, string s2) {
         while (x > 0 && s2[x] != s2[i])
             x = f[x - 1];
         if (s2[x] == s2[i]) f[i] = x + 1;
+        else f[i] = 0;
     }
 
     int j = 0;
