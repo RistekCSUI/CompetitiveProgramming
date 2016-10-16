@@ -13,6 +13,8 @@ Materials:
 * Week07: Binary Search
 * Week08: Shortest Path & Minimum Spanning Tree
 * Week09: Advanced Dynamic Programming
+* Week10: String Algorithms
+* Week11: SQRT Decomposition and Segment Tree with Lazy Propagation
 
 Team:
 
