@@ -1,11 +1,12 @@
 int KMP(string s1, string s2) {
-    // find the occurrence of s2 in s1
+    // find the occurrence of s2 (pattern) in s1 (text)
     int len1 = s1.length(), len2 = s2.length();
 
     int f[MAXN];
     
     int occurrence = 0;
 
+	// create failure links/fail table for the pattern
     f[0] = 0;
     for (int i = 1; i < len2; ++i) {
         int x = f[i - 1];
@@ -15,6 +16,7 @@ int KMP(string s1, string s2) {
         else f[i] = 0;
     }
 
+	// search for pattern in text
     int j = 0;
     for (int i = 0; i < len1; ++i) {
         while (j > 0 && s1[i] != s2[j])
