@@ -15,6 +15,7 @@ Materials:
 * Week09: Advanced Dynamic Programming
 * Week10: String Algorithms
 * Week11: SQRT Decomposition and Segment Tree with Lazy Propagation
+* Week12: Geometry: Convex Hull
 
 Team:
 
